@@ -1,0 +1,14 @@
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\bin\Debug\netcoreapp3.1\CapgeSprintAssignment.exe
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\bin\Debug\netcoreapp3.1\CapgeSprintAssignment.deps.json
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\bin\Debug\netcoreapp3.1\CapgeSprintAssignment.runtimeconfig.json
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\bin\Debug\netcoreapp3.1\CapgeSprintAssignment.runtimeconfig.dev.json
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\bin\Debug\netcoreapp3.1\CapgeSprintAssignment.dll
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\bin\Debug\netcoreapp3.1\CapgeSprintAssignment.pdb
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\obj\Debug\netcoreapp3.1\CapgeSprintAssignment.csproj.AssemblyReference.cache
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\obj\Debug\netcoreapp3.1\CapgeSprintAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\obj\Debug\netcoreapp3.1\CapgeSprintAssignment.AssemblyInfoInputs.cache
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\obj\Debug\netcoreapp3.1\CapgeSprintAssignment.AssemblyInfo.cs
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\obj\Debug\netcoreapp3.1\CapgeSprintAssignment.csproj.CoreCompileInputs.cache
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\obj\Debug\netcoreapp3.1\CapgeSprintAssignment.dll
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\obj\Debug\netcoreapp3.1\CapgeSprintAssignment.pdb
+C:\Users\FAMILY\source\repos\CapgeSprintAssignment\CapgeSprintAssignment\obj\Debug\netcoreapp3.1\CapgeSprintAssignment.genruntimeconfig.cache
